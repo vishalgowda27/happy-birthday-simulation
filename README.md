@@ -47,7 +47,7 @@ Waveform for Hit_1s.
 
 
 
-Block Diagram
+Block Diagram of Happy Birthday Design Problem
 
 
 
