@@ -1,5 +1,5 @@
 # happy-birthday-simulation
-Verilog HDL simulation of a “Happy Birthday” message displayed using FSM-based sequencing and 7-segment encoding.
+
 ## Overview
 This project simulates a "Happy Birthday" message display using Verilog HDL.
 The focus is on Shift register-based character sequencing and 7-segment encoding.
