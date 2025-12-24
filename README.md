@@ -28,7 +28,7 @@ Waveform for Hit.
 
 
 
-Waveform for ready and Hit_1s.
+Waveform for Hit_1s.
 
 
 
