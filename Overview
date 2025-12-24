@@ -1,0 +1,35 @@
+# Happy Birthday Display – Verilog Simulation
+
+## Overview
+This project simulates a "Happy Birthday" message display using Verilog HDL.
+The focus is on FSM-based character sequencing and 7-segment encoding.
+This version is verified through simulation only and has not been deployed on FPGA hardware.
+
+## Features
+- FSM-controlled message sequencing
+- 7-segment display encoding
+- Clock divider for visible timing
+- Modular Verilog design
+- Testbench-based verification
+
+## Simulation Environment
+- Simulator: ModelSim / Vivado Simulator
+- Timescale: 1ns / 1ps
+
+## Simulation Results
+Waveforms confirming correct character sequencing are provided in the `sim/` directory.
+
+## Project Status
+✔ Simulation complete  
+✘ FPGA deployment (pending)
+
+## Learning Outcomes
+- Designing FSMs in Verilog
+- Writing structured testbenches
+- Understanding clock division in simulation
+- Modular HDL design
+
+## Future Work
+- FPGA deployment on Spartan-6
+- Real-time 7-segment display verification
+- Optional buzzer or scrolling text support
