@@ -1,6 +1,26 @@
 # happy-birthday-simulation
 Verilog HDL simulation of a “Happy Birthday” message displayed using FSM-based sequencing and 7-segment encoding.
+## Overview
+This project simulates a "Happy Birthday" message display using Verilog HDL.
+The focus is on Shift register-based character sequencing and 7-segment encoding.
 
+## Features
+- FSM-controlled message sequencing
+- 7-segment display encoding
+- Clock divider for visible timing
+- Modular Verilog design
+- Testbench-based verification
+
+## Simulation Environment
+- Simulator: ModelSim / Vivado Simulator
+- Timescale: 1ns / 1ps
+
+## Learning Outcomes
+- Designing FSMs in Verilog
+- Writing structured testbenches
+- Understanding clock division in simulation
+- Modular HDL design
+ Optional buzzer or scrolling text support
 # Waverform of ready_pulse 
 
 
@@ -47,7 +67,7 @@ Verilog HDL simulation of a “Happy Birthday” message displayed using FSM-bas
 
 
 
-## Block Diagram of Happy Birthday Design Problem
+# Block Diagram of Happy Birthday Design Problem
 
 
 
@@ -59,25 +79,5 @@ Verilog HDL simulation of a “Happy Birthday” message displayed using FSM-bas
 
 
 
-## Overview
-This project simulates a "Happy Birthday" message display using Verilog HDL.
-The focus is on Shift register-based character sequencing and 7-segment encoding.
 
-## Features
-- FSM-controlled message sequencing
-- 7-segment display encoding
-- Clock divider for visible timing
-- Modular Verilog design
-- Testbench-based verification
-
-## Simulation Environment
-- Simulator: ModelSim / Vivado Simulator
-- Timescale: 1ns / 1ps
-
-## Learning Outcomes
-- Designing FSMs in Verilog
-- Writing structured testbenches
-- Understanding clock division in simulation
-- Modular HDL design
- Optional buzzer or scrolling text support
 
