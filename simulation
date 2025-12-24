@@ -1,2 +1,0 @@
-This directory contains simulation waveforms generated from the top-level testbench.The waveform demonstrates correct FSM sequencing and 7-segment output for the
-"Happy Birthday" message.
