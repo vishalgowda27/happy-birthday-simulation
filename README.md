@@ -1,7 +1,7 @@
 # happy-birthday-simulation
 Verilog HDL simulation of a “Happy Birthday” message displayed using FSM-based sequencing and 7-segment encoding.
 
-Waverform of ready_pulse 
+# SWaverform of ready_pulse 
 
 
 
@@ -15,7 +15,7 @@ Waverform of ready_pulse
 
 
 
-Waveform for Hit.
+# Waveform for Hit.
 
 
 
@@ -28,7 +28,7 @@ Waveform for Hit.
 
 
 
-Waveform for Hit_1s.
+# Waveform for Hit_1s.
 
 
 
@@ -47,7 +47,7 @@ Waveform for Hit_1s.
 
 
 
-Block Diagram of Happy Birthday Design Problem
+## Block Diagram of Happy Birthday Design Problem
 
 
 
