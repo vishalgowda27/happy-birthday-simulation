@@ -40,3 +40,17 @@ Waveform for Hit_1s.
 
 
 <img width="1632" height="912" alt="Hit_1   ready" src="https://github.com/user-attachments/assets/0965c6fe-f006-42c3-833d-5a3b607ad8a8" />
+
+
+
+
+
+
+
+Block Diagram
+
+
+
+
+
+![WhatsApp Image 2025-12-19 at 7 21 29 PM](https://github.com/user-attachments/assets/dafae0e9-e9c8-487d-adfb-61ee895a45e5)
